@@ -69,6 +69,7 @@ The Racket repository: https://github.com/racket/racket
 - [MrEd Designer](https://github.com/Metaxal/MrEd-Designer) - MrEd Designer is WYSIWYG program to create GUI applications for Racket. (code generator)
 - [gui-widget-mixins](https://pkgs.racket-lang.org/package/gui-widget-mixins) - Tool tips, cue text and validation for text-field% GUI widgets in Racket
 - [map-widget](https://pkgs.racket-lang.org/package/map-widget) - A Racket GUI Widget to display maps based on OpenStreetMap tiles
+- [GUI helpers](https://pkgs.racket-lang.org/package/GUI-helpers) - A collection of functions to help make GUI creation easy.
 More at [packages tagged `GUI`](https://pkgd.racket-lang.org/pkgn/search?q=&tags=gui)
 
 ## Audio and Music
